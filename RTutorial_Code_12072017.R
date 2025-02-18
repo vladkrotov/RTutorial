@@ -1,12 +1,12 @@
-# #A Quick Introduction to R and RStudio
-# #by Vlad Krotov
+# A Quick Introduction to R and RStudio
+# by Vlad Krotov
 # 
 # 
-# #(LO2): Add comments to R code
+# (LO2): Add comments to R code
 # 
-#   #This is a proper comment in R.
+#   This is a proper comment in R.
 # 
-#         #[LO2 QUESTION]: Click on the line that contains a properly entered comment in R
+#         [LO2 QUESTION]: Click on the line that contains a properly entered comment in R
 
 
 #(LO3): Use RStudio for entering and running R-code
